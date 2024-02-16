@@ -1,0 +1,44 @@
+### Module positions - created on Sat 10 Sep 2022 05:36:56 PM MST ###
+### Printed by Pcbnew version 6.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                                         PosX       PosY       Rot  Side
+C1        0.1uF                    C_0603_1608Metric                                            99.7680    39.4780    0.0000  top
+C2        0.1uF                    C_0603_1608Metric                                           119.4575    34.7800   90.0000  top
+C4        10uF                     CP_EIA-3216-18_Kemet-A                                      127.7080    27.7940   90.0000  top
+C5        10uF                     CP_EIA-3216-18_Kemet-A                                      113.2300    31.8580  -90.0000  top
+C6        0.1uF                    C_0603_1608Metric                                            91.2500    57.8700  180.0000  top
+C7        1uF                      C_0603_1608Metric                                           113.2300    27.0320   90.0000  top
+C8        0.1uF                    C_0603_1608Metric                                            91.3100    55.9300  180.0000  top
+C10       0.1uF                    C_0603_1608Metric                                            99.0190    37.1920    0.0000  top
+D1        SS14D                    D_SMA                                                       123.3900    28.8100   90.0000  top
+F1        Polyfuse                 Fuse_0805_2012Metric                                        118.0560    31.3500  180.0000  top
+FPC1      FPC_40P_0.5mm            Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal_flipped   124.0000    51.5000   90.0000  top
+FPC2      Conn_01x06               Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal            142.9500    59.9900   90.0000  top
+J2        Conn_01x04               JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal            142.6940    47.0980   90.0000  top
+J5        USB_C_Receptacle_USB2.0  USB_C_Receptacle_XKB_U262-16XN-4BVC11                       106.6750    29.3000    0.0000  top
+Q1        S8050                    SOT-23                                                       85.5440    32.8740  180.0000  top
+Q2        S8050                    SOT-23                                                       92.4020    27.3645   90.0000  top
+Q3        S8050                    SOT-23                                                      116.2780    37.4460   90.0000  top
+R1        4.7K                     R_0603_1608Metric                                            96.4660    39.4780  180.0000  top
+R2        100K                     R_0603_1608Metric                                           121.6120    34.8700   90.0000  top
+R3        1K                       R_0603_1608Metric                                           115.7700    58.2740    0.0000  top
+R4        1K                       R_0603_1608Metric                                           115.7700    56.2420    0.0000  top
+R5        10K                      R_0603_1608Metric                                            96.2120    27.7940  180.0000  top
+R6        10K                      R_0603_1608Metric                                            96.2120    26.0160  180.0000  top
+R7        10K                      R_0603_1608Metric                                           115.7700    54.2100    0.0000  top
+R8        10K                      R_0603_1608Metric                                            85.2270    35.9220  180.0000  top
+R10       10K                      R_0603_1608Metric                                            92.4020    30.5880    0.0000  top
+R11       10K                      R_0603_1608Metric                                           115.7700    60.0520    0.0000  top
+R12       10K                      R_0603_1608Metric                                           115.7700    61.8300    0.0000  top
+R18       10K                      R_0603_1608Metric                                           112.4680    36.4300    0.0000  top
+R19       10                       R_0603_1608Metric                                           118.9000    45.3200    0.0000  top
+R20       10                       R_0603_1608Metric                                           118.9600    43.6500    0.0000  top
+R21       10                       R_0603_1608Metric                                           118.9600    41.9000    0.0000  top
+R23       10K                      R_0603_1608Metric                                           115.7700    50.1460  180.0000  top
+R24       5K1                      R_0603_1608Metric                                           104.3400    36.4300    0.0000  top
+R25       5K1                      R_0603_1608Metric                                           108.2130    36.4300  180.0000  top
+U1        CP2102N-A01-GQFN28       QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm                        93.9260    34.9060  180.0000  top
+U3        AP2112K-3.3              SOT-23-5                                                    118.5640    27.7940  180.0000  top
+U4        ESP32-WROOM-32D          ESP32-WROOM-32                                              103.5100    53.4480    0.0000  top
+## End

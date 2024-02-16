@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ESP32_TouchDown")(type "KiCad")(uri "${KIPRJMOD}/ESP32_TouchDown.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32_TouchDown-rescue")(type "Legacy")(uri "${KIPRJMOD}/ESP32_TouchDown-rescue.lib")(options "")(descr ""))
+  (lib (name "Openhasp")(type "KiCad")(uri "${KIPRJMOD}/Openhasp.kicad_sym")(options "")(descr ""))
+)
