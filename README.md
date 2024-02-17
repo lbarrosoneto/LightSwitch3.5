@@ -14,8 +14,7 @@ The light switch is available in 2 configurations and  replaces standard mechani
 
 
 # Disclaimer
-==========================================WARNING==================================================
-
+---
 THIS PROJECT INVOLVES MONKEYING WITH HIGH VOLTAGE AND YOU COULD KILL YOURSELF 
 AND/OR SET YOUR HOUSE ON FIRE
 
@@ -35,12 +34,11 @@ negligence), product liability or otherwise, arising in any way
 in relation to the Covered Source, modified Covered Source
 and/or the Making or Conveyance of a Product, even if advised of
 the possibility of such damages, and You shall hold the
-Licensor(s) free and harmless from any liability, costs,
+developer free and harmless from any liability, costs,
 damages, fees and expenses, including claims by third parties,
 in relation to such use.
       
-=========================================WARNING==================================================
-
+---
 
 # Hardware Design
 
@@ -74,4 +72,6 @@ The Relays are connected to IO12 and IO13, so, those ports need to be configured
 
 
 
-This work is copyright (c) Luiz Oliveira Neto <lboneto@gmail.com> and licensed under [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://github.com/lbarrosoneto/LightSwitch3.5)
+The hardware design is copyright (c) Luiz Oliveira Neto <lboneto@gmail.com> and licensed under [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://github.com/lbarrosoneto/LightSwitch3.5)
+
+The 3D Prints are copyright (c) Luiz Oliveira Neto <lboneto@gmail.com>  and licensed Creative Commons share alike.
