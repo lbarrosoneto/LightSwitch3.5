@@ -37,4 +37,11 @@ Lightswitch3.5 is compatible with the esp32-touchdown https://github.com/DustinW
 <img width="901" alt="image" src="https://github.com/lbarrosoneto/LightSwitch3.5/assets/7077968/35ab6684-7bf6-4d6a-b014-b31c441da480">
 
 
+The Relays are connected to IO12 and IO13, so, those ports need to be configured "Pin Output" in the Light Switch Web Interface (Under Configuration->GPIO Settings): 
+
+<img width="630" alt="image" src="https://github.com/lbarrosoneto/LightSwitch3.5/assets/7077968/8c0028f4-35ad-4061-b45e-96fbb7411561">
+
+
+
+
 This work is copyright (c) Luiz Oliveira Neto <lboneto@gmail.com> and licensed under [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://github.com/lbarrosoneto/LightSwitch3.5)
