@@ -12,6 +12,36 @@ The light switch is available in 2 configurations and  replaces standard mechani
 <img width="830" alt="image" src="https://github.com/lbarrosoneto/LightSwitch3.5/assets/7077968/cd505e50-5239-46ae-b379-188f47ed30aa">
 
 
+
+# Disclaimer
+==========================================WARNING==================================================
+
+THIS PROJECT INVOLVES MONKEYING WITH HIGH VOLTAGE AND YOU COULD KILL YOURSELF 
+AND/OR SET YOUR HOUSE ON FIRE
+
+The end result is a thing that connects to live voltage and will be placed into 
+your wall for years to come. It will not carry any sort of UL/CE/etc certification. 
+Proceed with extreme caution.
+
+EXCLUSION AND LIMITATION OF LIABILITY 
+The developer shall, to
+the maximum extent permitted by law, have no liability for
+direct, indirect, special, incidental, consequential, exemplary,
+punitive or other damages of any character including, without
+limitation, procurement of substitute goods or services, loss of
+use, data or profits, or business interruption, however caused
+and on any theory of contract, warranty, tort (including
+negligence), product liability or otherwise, arising in any way
+in relation to the Covered Source, modified Covered Source
+and/or the Making or Conveyance of a Product, even if advised of
+the possibility of such damages, and You shall hold the
+Licensor(s) free and harmless from any liability, costs,
+damages, fees and expenses, including claims by third parties,
+in relation to such use.
+      
+=========================================WARNING==================================================
+
+
 # Hardware Design
 
 2 PCBs compose the hardware design, that is available from https://github.com/lbarrosoneto/LightSwitch3.5/tree/main/HWDesign
